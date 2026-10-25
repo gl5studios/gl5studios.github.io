@@ -1,0 +1,42 @@
+index.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>gl5s | Home</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <main class="container">
+    <!-- Profile Header -->
+    <header class="profile">
+      <!-- Replace with your own image URL or remove the img tag -->
+      <img src="https://via.placeholder.com/120" alt="Profile Picture" class="avatar">
+      <h1>Gabe Liu</h1>
+      <p class="tagline">i create and dev stuffs</p>
+    </header>
+
+    <!-- Short Bio -->
+    <section class="bio">
+      <p>hello i guess you want to see stuff aout me... yeah i dont have anything for yall to see uhh yeah and uhh feel free to email me about any requests or stuff I code mainly in html + css and I still suck at it so umm your call i guess oh yeah and I also make games</p>
+    </section>
+
+    <!-- Link / Project Buttons -->
+    <section class="links">
+      <h2>Projects & Links</h2>
+      <a href="https://github.com/gl5studios" class="link-btn" target="_blank">GitHub Profile</a>
+      <a href="https://github.com/gl5studios/fkq" class="link-btn">Project One</a>
+      <a href="https://github.com/gl5studios/openmultiplechoice" class="link-btn">Project Two</a>
+      <a href="mailto:cobramonkey777@gmail.com" class="link-btn">Contact Me</a>
+    </section>
+
+    <footer>
+      <p>© 2026 gabe liu</p>
+    </footer>
+  </main>
+
+</body>
+</html>
